@@ -110,28 +110,3 @@ Several challenges were identified during this project:
 * **Exploration vs. Exploitation:** Finding the right balance between trying new summary strategies and sticking with known effective ones is complex.
 * **Sample Efficiency:** RL algorithms often require a large amount of data to learn effectively, which is computationally expensive.
 * **Model Stability:** Training was sometimes unstable due to issues like reward sparsity and vanishing gradients.
-
----
-
-## How to Run
-
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-    cd your-repo-name
-    ```
-
-2.  **Install dependencies:**
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3.  **Run the training script:**
-    ```bash
-    python train.py --model [reinforce|actor_critic]
-    ```
-
-4.  **Run inference:**
-    ```bash
-    python summarize.py --text "Your text to summarize here."
-    ```

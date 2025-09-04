@@ -13,7 +13,7 @@ This project investigates the use of Reinforcement Learning (RL) for abstractive
 5.  [Evaluation Metric](#evaluation-metric)
 6.  [Results](#results)
 7.  [Challenges](#challenges)
-8.  [How to Run](#how-to-run)
+
 
 ---
 
@@ -34,7 +34,9 @@ The project utilizes the **Amazon Fine Food Reviews** dataset. This is a large c
 **Dataset statistics:**
 * Total Reviews: 568,454 
 * Total Users: 256,059 
-* Total Products: 74,258 
+* Total Products: 74,258
+
+Access the Dataset here [Amazon Fine Foods Review](https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews)
 
 ---
 
